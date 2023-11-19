@@ -13,5 +13,8 @@ public class DemoProjectApplication {
 		//how are you
 		SpringApplication.run(DemoProjectApplication.class, args);
 	}
+	public void m1(){
+		System.out.println("hello puli");
+	}
 
 }
